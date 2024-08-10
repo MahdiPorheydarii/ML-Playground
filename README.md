@@ -11,6 +11,7 @@ This repository contains the final project for the AI course at IUST Industrial 
 - **main.ipynb**: The Jupyter Notebook containing the Python code used to preprocess the data, train the models, and analyze the results.
 - **cardekho.csv**: The dataset used for model training and evaluation. It contains information on various car features and their corresponding selling prices.
 - **LinearRegression.py**: A script implementing the Linear Regression model, one of the models used in this project.
+- **requirements.txt**: Listed Python libraries required to run the project.
 
 ## Project Objective
 
